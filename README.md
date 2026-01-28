@@ -49,6 +49,11 @@ collect codes of rust and construct into a function.
 - get weekday
 
 ## math
+- add
+- min
+- max
+
+## list
 
 ## database
 - connect 
@@ -62,6 +67,9 @@ collect codes of rust and construct into a function.
 - ssh/sftp
 - dig
 - traceroute
+
+## gui
+- create form
 
 ## other
 - read excel
