@@ -4,6 +4,13 @@ collect codes of rust and construct into a function.
 
 # Tasks
 
+## general
+
+- print text
+- logging
+- sleep
+- threading
+
 ## io
 
 ### common
@@ -12,7 +19,6 @@ collect codes of rust and construct into a function.
 - input text
 - write text to file
 - read text from file
-- logging
 
 ### json
 ### csv
@@ -39,6 +45,10 @@ collect codes of rust and construct into a function.
 - get yesterday
 - transform date from string/serial
 - format date to datestring
+- diff dates
+- get weekday
+
+## math
 
 ## database
 - connect 
